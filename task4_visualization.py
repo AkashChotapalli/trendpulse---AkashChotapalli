@@ -78,7 +78,7 @@ plt.legend()
 plt.savefig("outputs/chart3_scatter.png")
 plt.show()
 
-# ---------------- BONUS DASHBOARD ----------------
+# ---------------- DASHBOARD ----------------
 
 fig, axs = plt.subplots(1, 3, figsize=(18, 5))
 
